@@ -1,0 +1,215 @@
+/*.change{
+	font-size: 40px;
+	font-family: "Comic Sans";
+	color: black;
+	text-align: justify-all;
+	text-orientation: horizontal;
+}
+#estilodos{
+	font-size: 20px;
+}
+
+h1{
+	font-size: 20px;
+	color : green;
+}
+
+*{
+	font-family: "Verdana";
+	font-size: 16px;
+	margin: 10px;
+	text-align: justify;
+}
+p span {
+	color: red;
+	font-size: 25px;
+
+}
+p span em {
+	color: blue;
+	font-size: 30px;
+
+/*}
+.fuentes {
+	font-size: 15px;
+	font-weight: bold;
+	color: black;
+	background-color: gray;
+}
+
+.estilo2 {
+	font-size: 18px;
+	text-align: justify;
+	text-decoration: underline;
+	color: blue;
+	text-transform: capitalize;
+}
+*{
+	/*background-image: url("../bsc.jpg");*/
+	/*background-repeat: no-repeat; 
+background-repeat: repeat-x;*/
+/*background-repeat: repeat-y;*/
+}
+
+#caja1{
+	background-color: yellow;
+	font-size: 20px;
+	padding: 10px;
+	margin: 10px;
+	border-width: 2px;
+	border-color: black;
+	border-style: solid;
+	border-radius: 10px;
+}
+p{
+	background-color: red;
+	font-size: 20px;
+	padding: 10px;
+	margin: 10px;
+	border-width: 2px;
+	border-color: black;
+	border-style: solid;
+	border-top-right-radius: 20px;
+}
+
+#menu{
+	background-color: #003366;
+	color: white;
+	font-family: "Verdana";
+	width: 97%;
+	margin: 0;
+	border-bottom-style: solid;
+	border-bottom-width: 5px;
+	border-bottom-color: blue ;
+}
+
+#menu li{
+	list-style-type: none; 
+	display: inline-block;
+	padding: 5px;
+	margin: 5px;
+}
+#menu li:hover{
+	background-color: white;
+	color: #003366;
+	list-style-type: none; 
+	display: inline-block;
+	padding: 5px;
+	margin: 5px;
+	border-bottom-width: 5px;
+	border-bottom-color: #000000;
+}
+#menu li a{
+	text-decoration: none;
+	background-color: #003366;
+	color: white;
+	font-family: "Verdana";
+	width: 97%;
+	margin: 0;
+}
+
+#menu li a:hover{
+	text-decoration: none;
+	background-color: white;
+	color: #003366;
+	list-style-type: none; 
+	display: inline-block;
+}
+
+.cajas{
+	height: 200px;
+	width: 200px;
+	background-color: yellow;
+	font-size: 20px;
+	padding: 10px;
+	margin: 5px;
+	border-width: 2px;
+	border-color: black;
+	border-style: solid;
+	border-radius: 10px;
+	position: inline-block;
+}
+
+.estilo{
+	background-color: red;
+	position: absolute;
+	left: 100px;
+	top: 60px;
+}
+
+.principal{
+	background-color: #003366;
+	height: 200px;
+	width: 960px;
+	margin: auto;
+	border-radius: 20px;
+}
+
+.logo{
+	background-color: white;
+	background-image: url("../bsc.jpg");
+	background-repeat: no-repeat; 
+	background-size: cover;
+	height: 150px;
+	width: 150px;
+	display: inline-block;
+	margin-top: 20px;
+	margin-left: 20px;
+	border-radius: 20px;
+	float: left;
+}
+
+.banner{
+	background-color: white;
+	height: 150px;
+	width: 750px;
+	display: inline-block;
+	border-radius: 20px;
+	margin-left: 15px;
+	margin-top: 20px;
+	float: left; 
+}
+
+body{
+
+	/*background-color: yellow;*/
+	background-image: url("../fondito.jpg");
+	/*background-repeat: no-repeat; */
+}
+
+.prueba{
+	width: 300px;
+	height: 160px;
+	background-color: white;
+	overflow: scroll;
+	text-align: justify;
+}
+
+.formulario{
+	background-color: white;
+	height: 200px;
+	width: auto;
+	/*margin: auto;*/
+	border-radius: 2px;
+	padding: 10px;
+	margin: 10px;
+}
+
+input{
+	background-color: #003366;
+	border-radius: 20px;
+	margin: 2px;
+	padding-left: 5px;
+	text-decoration-color: white;
+	font-size:14px;
+}
+button{
+	background-color: #003366;
+	border-radius: 20px;
+	margin: 2px;
+	padding-left: 5px;
+	text-decoration-color: white;
+	font-size:16px;
+	color: white;
+	width: 150px;
+}
